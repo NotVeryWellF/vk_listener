@@ -1,0 +1,7 @@
+vk:
+  login: email
+  password: password
+  number_of_posts: 10
+  communities:
+    - comm1
+    - comm2
